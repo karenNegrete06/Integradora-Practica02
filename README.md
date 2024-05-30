@@ -21,4 +21,16 @@ sí desea marcar una separación más visual de contenido podemos utilizarlos in
 
 EJEMPLO:
 ---
+
 *Esto es similar a un tang de < HR > en HTML.
+
+### 3. Párrafos (PARAGRPANS)
+Son utilizados para por presentar grandes sesiones de texto que describen detalladamente las sesiones de la documentación del proyecto. 
+
+EJEMPLO:
+
+Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1  Este texto permanece al párrafo 1  Este texto permanece al párrafo 1.
+
+Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2.
+
+Lo que es una página utilizaríamos etiqueta < P >
