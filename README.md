@@ -70,3 +70,17 @@ Texto Texto Texto Texto <i>Texto Importante</i> Texto Texto Texto Texto Texto Te
 Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con **
 
 Texto Texto Texto Texto Texto Texto ***Texto importante*** Texto Texto Texto Texto
+
+
+# Integradora-Practica03
+Continuaremos con los comandos básicos de Git y Github para el enmaquetado de la documentación
+
+### 5. Cuadros para código o Reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para resaltar intrucciones especificas para la instalación, configuracion y/o inicializacion o mostrar secciones de código fuente. Se maqueta iniciando el texto con un Símbolo de mayor que (>)
+
+**EJEMPLO**
+
+Para instalar las carpetas y archivos en desde una terminal de sistemas operativos Windows debemos ingresar el comando:
+C:/dir
+Despues oprimimos la tecla "Enter".
