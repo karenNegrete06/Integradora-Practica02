@@ -82,5 +82,26 @@ Estos elementos son utilizados para resaltar intrucciones especificas para la in
 **EJEMPLO**
 
 Para instalar las carpetas y archivos en desde una terminal de sistemas operativos Windows debemos ingresar el comando:
+
 C:/dir
+
 Despues oprimimos la tecla "Enter".
+
+rambien podemos ingresar textos multilineas
+
+**EJEMPLO**
+
+>Aqui se ingresa un conjunto de instrucciones
+>Para explicar al usuario, como instalar el
+>Software que hemos diseñado.
+
+Y si debemos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+**EJEMPLO: Pasos para instalar la Base de Datos:**
+
+> - Descargar MYSQL Serverdel Sitio Oficial
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario ***root***
+> - Descargamos el archivo de respaldo de la base de datos (.sql)
+> - Restauramos la Base de Datos usuando el comando "MYSQL"
+
+C:/Program Files/MYSQL Server 8.0/bin/mysql-u root-p password < respaldo.sql
