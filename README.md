@@ -219,7 +219,7 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
       <td>Fila 6 celda 3<\td>
       <td>Fila 6 celda 4<\td>
     </tr>
-<\table>
+</table>
 
     
     
