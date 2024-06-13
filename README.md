@@ -210,8 +210,8 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
     </tr>
     <tr>
         <tb>Fila 5 celda 2</tb>
-        <td>Fila 5 celda 3<\td>
-        <td>Fila 5 celda 4<\td>
+        <tb>Fila 5 celda 3</tb>
+        <tb>Fila 5 celda 4</tb>
     </tr>
     <tr>
         <td>Fila 6 celda 1</td>
