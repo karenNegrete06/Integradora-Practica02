@@ -197,7 +197,7 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
         <td>Fila 2 celda 1</td>
         <td colspan=3 aling="center">Fila 2 celda 2</td>
     </tr>
-      <tr>
+    <tr>
           <td rowspan=3>Fila 3 celda 1</td>
           <td>Fila 3 celda 2</td>
           <td>Fila 3 celda 3</td>
@@ -209,10 +209,10 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
         <tb>Fila 4 celda 4</tb>
     </tr>
     <tr>
-      <tb>Fila 5 celda 2</tb>
-      <tb>Fila 5 celda 3</tb>
-      <tb>Fila 5 celda 4</tb>  
-    <\tr>
+        <tb>Fila 5 celda 2</tb>
+        <tb>Fila 5 celda 3</tb>
+        <tb>Fila 5 celda 4</tb>
+    </tr>
     <tr>
         <td>Fila 6 celda 1</td>
         <td>Fila 6 celda 2</td>
