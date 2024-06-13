@@ -185,6 +185,8 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
       <th>Encabezado 1<\th>
       <th>Encabezado 2<\th> 
       <th>Encabezado 3<\th>
+      <th>Encabezado 4<\th>
+          
     </tr>
     <tr>
       <td>Fila 1 celda 1<\td>
