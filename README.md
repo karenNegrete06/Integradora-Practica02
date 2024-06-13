@@ -176,3 +176,49 @@ En el caso de la función de celda en columnas usaremos la propiedad "colspan" d
 |              |Fila 5 celda 2|Fila 5 celda 3|Fila 5 celda 4|
 |Fila 6 celda 1|Fila 6 celda 2|Fila 6 celda 3|Fila 6 celda 4|
 
+Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de las filas debemos utilizar el estandar de HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan".
+
+**Ejemplo**
+
+<table>
+    <tr>
+      <th>Encabezado 1<\th>
+      <th>Encabezado 2<\th> 
+      <th>Encabezado 3<\th>
+    </tr>
+    <tr>
+      <td>Fila 1 celda 1<\td>
+      <td>Fila 1 celda 2<\td>
+      <td>Fila 1 celda 3<\td>
+      <td>Fila 1 celda 4<\td>
+    </tr>
+    <tr>
+      <td>Fila 2 celda 1<\td>
+      <td colspan=3 aling="center">Fila 2 celda 2<\td>
+    </tr>
+      <tr>
+      <td rowspan=3>Fila 3 celda 1<\td>
+      <td>Fila 3 celda 2<\td>
+      <td>Fila 3 celda 3<\td>
+      <td>Fila 3 celda 4<\td>
+    </tr>
+    <tr>
+      <td>Fila 4 celda 2<\td>
+      <td>Fila 4 celda 3<\td>
+      <td>Fila 4 celda 4<\td>
+    </tr>
+    <tr>
+      <td>Fila 5 celda 2<\td>
+      <td>Fila 5 celda 3<\td>
+      <td>Fila 5 celda 4<\td>
+    </tr>
+    <tr>
+      <td>Fila 6 celda 1<\td>
+      <td>Fila 6 celda 2<\td>
+      <td>Fila 6 celda 3<\td>
+      <td>Fila 6 celda 4<\td>
+    </tr>
+<\table>
+
+    
+    
