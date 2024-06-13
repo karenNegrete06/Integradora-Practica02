@@ -198,7 +198,7 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
       <td colspan=3 aling="center">Fila 2 celda 2<\td>
     </tr>
       <tr>
-      <td rowspan=3>Fila 3 celda 1<\td>
+          <td rowspan=3>Fila 3 celda 1</td>
       <td>Fila 3 celda 2<\td>
       <td>Fila 3 celda 3<\td>
       <td>Fila 3 celda 4<\td>
