@@ -150,3 +150,29 @@ Puede mostrar una imágen agregando ! y ajustar el texto alternativo en [ ]. El 
 
 
 GitHub admite la inserción de imágenes en incidencias, solicitudes de incorporación de cambios, debates, comentarios y archivos .md. Puedes mostrar una imagen desde tu repositorio, agregar un enlace a una imagen en línea o cargar una imagen. Para obtener más información, consulte "Carga de recursos".
+
+
+### 9. Tabla(Tables)
+La habitación lo requiere podemos presentar información en formato de jaulas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para deliminar las columnas y \- para delimitar filas.
+
+**Ejemplo:**
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|--------------|--------------|--------------|--------------|
+|Fila 1 celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 celda 1|Fila 2 celda 2|Fila 2 celda 3|Fila 2 celda 4|
+|Fila 3 celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+
+En el caso de la función de celda en columnas usaremos la propiedad "colspan" del tag \<td> y el caso de necesitar la funcion de las filas utilizaremos la propiedad "rowspan".
+
+**Ejemplo**
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|--------------|--------------|--------------|--------------|
+|Fila 1 celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 celda 1 <tb colspan=2>|Fila 2 celda 2|Fila 2 celda 3|Fila 2 celda 4|
+|Fila 3 celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+|              |Fila 4 celda 2|Fila 4 celda 3|Fila 4 celda 4|
+|              |Fila 5 celda 2|Fila 5 celda 3|Fila 5 celda 4|
+|Fila 6 celda 1|Fila 6 celda 2|Fila 6 celda 3|Fila 6 celda 4|
+
