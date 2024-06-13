@@ -204,14 +204,14 @@ Dado que en el ejemplo pasado usamos markdown no se puede realizar la funsion de
           <td>Fila 3 celda 4</td>
     </tr>
     <tr>
-        <tb>Fila 4 celda 2</tb>
-        <tb>Fila 4 celda 3</tb>
-        <tb>Fila 4 celda 4</tb>
+        <td>Fila 4 celda 2</td>
+        <td>Fila 4 celda 3</td>
+        <td>Fila 4 celda 4</td>
     </tr>
     <tr>
-        <tb>Fila 5 celda 2</tb>
-        <tb>Fila 5 celda 3</tb>
-        <tb>Fila 5 celda 4</tb>
+        <td>Fila 5 celda 2</td>
+        <td>Fila 5 celda 3</td>
+        <td>Fila 5 celda 4</td>
     </tr>
     <tr>
         <td>Fila 6 celda 1</td>
